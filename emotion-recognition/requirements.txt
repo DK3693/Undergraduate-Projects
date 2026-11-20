@@ -1,0 +1,13 @@
+tensorflow
+ultralytics
+opencv-python
+numpy
+scikit-learn
+matplotlib
+pandas
+fastapi
+uvicorn
+python-multipart
+streamlit
+requests
+Pillow
